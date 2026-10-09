@@ -1,6 +1,6 @@
 # Đề vẽ các cảnh quay của video (ChatCut Omni + Codex)
 
-Nguyên văn đề, đọc lại từ hồ sơ sinh của từng tệp trong dự án ChatCut `f4f38819-da95-4f6b-89e5-912027eb76d4` (đọc ngày 09/10/2026). Đây là đề THẬT đã dùng, không phải tóm tắt.
+Nguyên văn đề, đọc lại từ hồ sơ sinh của từng tệp trong dự án ChatCut (đọc ngày 09/10/2026). Đây là đề THẬT đã dùng, không phải tóm tắt.
 
 Máy: ChatCut Omni, mô hình `gemini-omni-1.1-flash-preview`, khổ dọc 9:16.
 

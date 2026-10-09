@@ -7,7 +7,7 @@ Video dựng bằng **Remotion 4** (React). Mọi thứ cần để dựng lại
 ## Cài trên máy mới (một lệnh)
 
 ```bash
-git clone <địa-chỉ-kho> video-xuat-khau-ga-han-quoc && cd video-xuat-khau-ga-han-quoc && ./install.sh
+git clone https://github.com/erocathanh/video-xuat-khau-ga-han-quoc.git video-xuat-khau-ga-han-quoc && cd video-xuat-khau-ga-han-quoc && ./install.sh
 ```
 
 `install.sh` chạy lại bao nhiêu lần cũng được:
@@ -26,15 +26,9 @@ npm run typecheck       # kiểm kiểu TypeScript
 ```
 Xem nhanh bản nhỏ: `npx remotion render src/index.ts XkgaVi out/nho.mp4 --scale=0.25`.
 
-## Bản đã chốt (để đối chiếu, KHÔNG nằm trong kho vì quá nặng)
+## Bản đã chốt
 
-Bản đối chiếu cuối là **v02** (cùng mốc giờ với v01, sửa hai nhãn chữ: hàng 3 «GIAI ĐOẠN ĐẦU: MỖI NƯỚC 2 DOANH NGHIỆP», ghim Việt Nam «NƠI XUẤT PHÁT»). Kho này dựng ra đúng bản v02.
-
-```
-/Users/erocathanh/Documents/THANH iCloud/AI Video Renders/video-san-xuat/2026-10-09-xuat-khau-ga-han-quoc/
-```
-- v02: md5 — xem `GHI-CHU.md` trong thư mục AI Video Renders trên (bản dựng tại xưởng: `/Users/erocathanh/Development/video-studio/xkga/ra/xkga-v02.mp4`).
-- v01 (bản trước, để tham khảo): `xuat-khau-ga-han-quoc-v01.mp4` · md5 `288b357d32e20cfd4d5928d3cc93a1d7` · 116.136.234 byte · 1080×1920 · hình 130,200 s · tiếng 130,261 s.
+Kho này dựng ra đúng bản **v02**: so với v01 chỉ sửa hai nhãn chữ, hàng 3 thành «GIAI ĐOẠN ĐẦU: MỖI NƯỚC 2 DOANH NGHIỆP» và ghim Việt Nam thành «NƠI XUẤT PHÁT». Video thành phẩm không nằm trong kho vì quá nặng; chạy `npm run render` là ra.
 
 ## Bản đồ thư mục
 
@@ -53,7 +47,7 @@ Bản đối chiếu cuối là **v02** (cùng mốc giờ với v01, sửa hai 
 | `xkga/codex-mat/` | ảnh đầu khung người dẫn (`nguoi-dan-thanh-v01.png`) và ảnh tham chiếu mặt |
 | `xkga/build_timeline.py` | dựng lại `timeline.json`, `src/xkga/timeline.ts`, `public/xkga/voice-mix.wav`, `music-bed.wav`, chép cảnh vào `public/xkga/media/` |
 | `xkga/make_music_xkga.py` | tự tổng hợp nhạc nền (numpy, 0 đồng) |
-| `xkga/chu-tren-hinh-can-viet.md`, `xkga/DE-DUNG.md` | bảng khoá chữ đã điền và đề dựng ban đầu (lưu lịch sử; đường dẫn trong đó là của máy gốc) |
+| `xkga/chu-tren-hinh-can-viet.md` | bảng khoá chữ đã điền (lưu lịch sử) |
 | `public/xkga/` | thứ Remotion đọc khi dựng: ảnh vệ tinh, tiếng đã trộn, nhạc nền, `media/` |
 | `scripts/` | `extract_countries.py` (đường biên), `make_bluemarble_crop.py` (ảnh vệ tinh Đông Á) |
 | `assets/fonts/` | Be Vietnam Pro TTF + `OFL.txt` |
@@ -81,7 +75,7 @@ rồi sửa chỗ dùng nước đó trong `MapMarkets.tsx` / `texts.ts`. **Vi�
 
 - **6 cảnh minh hoạ** (lễ công bố · cắt băng · dây chuyền · công nhân · cảng từ trên cao · cẩu container lạnh): ChatCut Omni, `gemini-omni-1.1-flash-preview`, 720p, 6 giây, khổ 9:16.
 - **3 cảnh người dẫn**: ảnh đầu khung vẽ bằng Codex CLI từ ảnh tham chiếu mặt, rồi ChatCut Omni 1080p (6 + 5 + 5 giây) nói đúng câu ghi trong đề.
-- Đề nguyên văn từng cảnh: `docs/omni-prompts.md`. Dự án ChatCut: `f4f38819-da95-4f6b-89e5-912027eb76d4`.
+- Đề nguyên văn từng cảnh: `docs/omni-prompts.md`.
 - **Chi phí ước:** khoảng **40 credit ChatCut** cho 9 cảnh (ước tính, chưa đối chiếu hoá đơn). Ảnh Codex, lời đọc dựng sẵn và nhạc nền tự tổng hợp: 0 credit ChatCut.
 
 ## Nguồn dữ liệu và giấy phép
@@ -92,9 +86,9 @@ rồi sửa chỗ dùng nước đó trong `MapMarkets.tsx` / `texts.ts`. **Vi�
 | đường biên các nước | Natural Earth 1:50m | công cộng (public domain) |
 | phông Be Vietnam Pro | The Be Vietnam Pro Project Authors | SIL Open Font License 1.1 — `assets/fonts/OFL.txt` |
 | dữ kiện trong lời đọc | các nguồn báo ghi trong `docs/kiem-chung-video-ga-han-quoc-20261009.json` | trích dẫn |
-| cảnh quay, ảnh người dẫn | do AI tạo (ChatCut Omni, Codex) cho dự án này | dùng nội bộ |
+| cảnh quay, ảnh người dẫn | do AI tạo (ChatCut Omni, Codex) cho dự án này | chỉ dùng để học với kho này |
 
-Mã nguồn: dùng nội bộ (`UNLICENSED`). Ảnh mặt người dẫn là của chủ kho: không dùng cho việc khác.
+Kho mở công khai để học viên tải về học và sửa thành video của mình. Mã nguồn chưa gắn giấy phép mở (`UNLICENSED`). Ảnh và cảnh quay có mặt người dẫn (Eroca Thanh): không dùng lại vào video khác; muốn có người dẫn của mình thì thay bằng ảnh và cảnh của bạn.
 
 ## Claude Code làm gì khi mở kho này
 

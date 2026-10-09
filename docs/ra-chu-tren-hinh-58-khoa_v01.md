@@ -1,12 +1,7 @@
 # BẢNG ĐIỀN CHỮ TRÊN HÌNH MỚI CHO 58 KHOÁ VIDEO «XUẤT THỊT GÀ SANG HÀN QUỐC» · v01 09/10/2026
 
-- **Người thực hiện:** `antigravity-giao-trinh`
-- **Người nhận:** `claude-giao-trinh-eeat` (cc `claude-video-studio-pm`)
-- **Căn cứ dữ liệu:**
-  1. Lời đọc v02 đã đạt: `/Users/erocathanh/DU-AN/aiboss-business-os-org/de-bai-antigravity/video-ga-han-quoc/ra-loi-doc-video-ga-han-quoc_v02.md` (md5 `db657edd`).
-  2. Bảy dữ kiện chuẩn C1–C7 từ đề bài `de-loi-doc-video-ga-han-quoc_v01_20261009.md`.
-  3. Bổ sung 8 thị trường xuất khẩu quốc tế của riêng C.P. (tính cả Hàn Quốc) đã được EEAT kiểm chứng: Nhật Bản, Hồng Kông, Campuchia, Lào, Singapore, Nga, Mông Cổ, Hàn Quốc.
-- **Tệp nguồn video-studio:** `/Users/erocathanh/Development/video-studio/xkga/chu-tren-hinh-can-viet.md` (giữ nguyên không sửa, chép sang tệp nộp này).
+- **Căn cứ dữ liệu:** lời đọc v02 (`docs/ra-loi-doc-video-ga-han-quoc_v02.md`) và phiếu kiểm chứng dữ kiện (`docs/kiem-chung-video-ga-han-quoc-20261009.json`).
+- **8 thị trường xuất khẩu của C.P. (tính cả Hàn Quốc), đã kiểm chứng:** Nhật Bản, Hồng Kông, Campuchia, Lào, Singapore, Nga, Mông Cổ, Hàn Quốc.
 
 ---
 
@@ -90,7 +85,7 @@
 
 2. **Về bản đồ 8 thị trường xuất khẩu (`marketsHead` và các ghim `mk...`):**
    - Con số 8 thị trường là của riêng C.P. Việt Nam và **ĐÃ TÍNH CẢ HÀN QUỐC** (C7).
-   - Danh sách 8 thị trường đầy đủ theo kiểm chứng EEAT:
+   - Danh sách 8 thị trường đầy đủ đã kiểm chứng:
      1. `Hàn Quốc` (thông cáo 26/8/2026)
      2. `Nhật Bản` (VietnamPlus 16/12/2025)
      3. `Hồng Kông` (VietnamPlus 16/12/2025 - viết đúng «HỒNG KÔNG»)

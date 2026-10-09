@@ -16,7 +16,7 @@ export const T = {
   marketsHead: "XUẤT KHẨU 8 THỊ TRƯỜNG\n(TÍNH CẢ HÀN QUỐC)",
   pinInitials: "CP", // neutral placeholder badge text (not the real logo)
   pinBrand: "C.P. VIỆT NAM",
-  mkVietnam: "NƠI XUẤT PHÁT", // origin, not one of the 8 markets (eeat 11:01 09/10)
+  mkVietnam: "NƠI XUẤT PHÁT", // origin, not one of the 8 markets
   mkKorea: "HÀN QUỐC",
   mkJapan: "NHẬT BẢN",
   mkHongKong: "HỒNG KÔNG",

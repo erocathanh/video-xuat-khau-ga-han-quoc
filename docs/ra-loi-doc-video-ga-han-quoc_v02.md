@@ -1,18 +1,16 @@
 # LỜI ĐỌC VIDEO DỌC «XUẤT THỊT GÀ CHẾ BIẾN SANG HÀN QUỐC» (BẢN v02)
-> Đề bài: `de-loi-doc-video-ga-han-quoc_v01_20261009.md` (md5 `96c76385`) · Video dọc 126 giây
-> Tác giả: `antigravity-giao-trinh` · Ngày nộp: 09/10/2026 · Sửa theo phiếu soi v01 (`tin-20261009-091837-ff9f`)
-> Hạn nộp eeat: 11:30 London 09/10/2026
+> Video dọc khoảng 126 giây · bản v02 ngày 09/10/2026
 
 ---
 
-## 1. CÁC ĐIỂM ĐÃ SỬA THEO PHIẾU SOI v01 CỦA EEAT
+## 1. CÁC ĐIỂM ĐÃ SỬA SO VỚI BẢN v01
 1. **Hàng 3:** Sửa «mới đủ chuẩn xuất đi» thành *«mới được công bố xuất đi»* (chuẩn theo C4, không ngầm suy diễn C.P. lúc đó mới đạt chuẩn).
 2. **Hàng 4:** Sửa đúng chủ ngữ và chức năng theo C5: Doanh nghiệp trải qua quy trình đánh giá 8 bước của APQA và MFDS; các đoàn liên ngành Hàn Quốc kiểm tra thực địa tháng 7–12/2025 toàn bộ chuỗi.
 3. **Hàng 5:** Sửa chữ trên hình từ «TỪ TRANG TRẠI / ĐẾN BÀN ĂN» thành *«TỪ VÙNG CHĂN NUÔI / ĐẾN VẬN CHUYỂN»* (khớp phạm vi câu hỏi C5).
 4. **Hàng 6:** Nêu rõ nguồn *«Cũng theo C.P. Việt Nam, phía Hàn Quốc yêu cầu…»* (C6) và bỏ hẳn cụm từ không nguồn «không có chỗ cho sự làm tắt».
 5. **Hàng 10:** Bỏ chữ «lớn», sửa thành *«Một lô hàng / xuất khẩu thành công…»*.
 6. **Hàng 11 và các lời kêu gọi Ⓐ, Ⓒ:** Chữ «AI» trong lời đọc viết thành *«ây ai»* để máy đọc không phát âm sai thành từ "ai" tiếng Việt; chữ trên hình vẫn giữ «AI».
-7. **Câu đề xuất:** Đổi chủ ngữ sang *«antigravity-giao-trinh đề xuất»*, bỏ tiền đề chưa kiểm chứng về phễu K6, nêu lý do có điều kiện theo mốc ngày đăng video (trước 15/10 đo CPL theo nguồn; sau 16/10 chuyển sang Ⓑ dùng lâu dài).
+7. **Câu đề xuất:** Đổi chủ ngữ sang *«Nhóm biên soạn đề xuất»*, bỏ tiền đề chưa kiểm chứng về phễu K6, nêu lý do có điều kiện theo mốc ngày đăng video (trước 15/10 đo CPL theo nguồn; sau 16/10 chuyển sang Ⓑ dùng lâu dài).
 8. **Đo lại số lần «theo C.P. Việt Nam»:** Đo đạc chính xác có đúng 3 lần xuất hiện (Hàng 1, Hàng 4, Hàng 6).
 9. **Áp dụng khuyến nghị nhẹ:** Hàng 2 sửa câu mở thanh thoát và giới hạn đúng «thịt gà chế biến Việt Nam»; Hàng 8 bỏ vế không nguồn «để thông quan thuận lợi».
 
@@ -74,7 +72,7 @@
 ---
 
 ### Đề xuất lựa chọn có lý do đo được:
-> **antigravity-giao-trinh đề xuất chọn phương án Ⓐ nếu video được đăng tải trước ngày 15/10/2026**, vì phương án này cho phép đo lường chính xác số người đăng ký theo nguồn video và chi phí trên mỗi lượt đăng ký (CPL); **trong trường hợp video đăng sau ngày 16/10/2026 thì phương án Ⓐ hết hạn, khi đó nên chuyển sang phương án Ⓑ** để video có giá trị sử dụng lâu dài và tiếp tục thu hút tương tác tự nhiên.
+> **Nhóm biên soạn đề xuất chọn phương án Ⓐ nếu video được đăng tải trước ngày 15/10/2026**, vì phương án này cho phép đo lường chính xác số người đăng ký theo nguồn video và chi phí trên mỗi lượt đăng ký (CPL); **trong trường hợp video đăng sau ngày 16/10/2026 thì phương án Ⓐ hết hạn, khi đó nên chuyển sang phương án Ⓑ** để video có giá trị sử dụng lâu dài và tiếp tục thu hút tương tác tự nhiên.
 
 ---
 
