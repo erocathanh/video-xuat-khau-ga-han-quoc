@@ -1,0 +1,117 @@
+{
+ "fps": 30,
+ "totalFrames": 3906,
+ "totalSeconds": 130.2,
+ "tempo": 1.07,
+ "gap": 0.4,
+ "rows": [
+  {
+   "row": 1,
+   "start": 0.0,
+   "duration": 17.333,
+   "startFrame": 0,
+   "durationFrames": 520,
+   "visual": "mapIntro",
+   "kind": "đồ hoạ icon"
+  },
+  {
+   "row": 2,
+   "start": 17.333,
+   "duration": 12.6,
+   "startFrame": 520,
+   "durationFrames": 378,
+   "visual": "omni:le-1-san-khau.mp4,le-2-cat-bang.mp4",
+   "kind": "cảnh vẽ lại (lễ công bố lô hàng đầu tiên tại Chơn Thành)"
+  },
+  {
+   "row": 3,
+   "start": 29.933,
+   "duration": 14.167,
+   "startFrame": 898,
+   "durationFrames": 425,
+   "visual": "omni:nha-may-1-day-chuyen.mp4,nha-may-2-cong-nhan.mp4",
+   "kind": "cảnh vẽ lại (dây chuyền nhà máy chế biến hiện đại)"
+  },
+  {
+   "row": 4,
+   "start": 44.1,
+   "duration": 18.033,
+   "startFrame": 1323,
+   "durationFrames": 541,
+   "visual": "info:agencies",
+   "kind": "cảnh vẽ lại (đoàn chuyên gia liên ngành kiểm tra thực địa)"
+  },
+  {
+   "row": 5,
+   "start": 62.133,
+   "duration": 9.767,
+   "startFrame": 1864,
+   "durationFrames": 293,
+   "visual": "info:grid",
+   "kind": "đồ hoạ icon (chuỗi quy trình khép kín 6 khâu)"
+  },
+  {
+   "row": 6,
+   "start": 71.9,
+   "duration": 16.667,
+   "startFrame": 2157,
+   "durationFrames": 500,
+   "visual": "info:heat",
+   "kind": "cảnh vẽ lại (khu vực xử lý nhiệt và đóng gói tách biệt)"
+  },
+  {
+   "row": 7,
+   "start": 88.567,
+   "duration": 6.0,
+   "startFrame": 2657,
+   "durationFrames": 180,
+   "visual": "presenter:thanh-clip-1.mp4",
+   "kind": "NGƯỜI DẪN (Thanh · clip 1 · 6 giây)"
+  },
+  {
+   "row": 8,
+   "start": 94.567,
+   "duration": 7.233,
+   "startFrame": 2837,
+   "durationFrames": 217,
+   "visual": "omni:cang-1-tren-cao.mp4,cang-2-container-lanh.mp4",
+   "kind": "cảnh vẽ lại (cảng biển và container xuất khẩu)"
+  },
+  {
+   "row": 9,
+   "start": 101.8,
+   "duration": 9.433,
+   "startFrame": 3054,
+   "durationFrames": 283,
+   "visual": "mapMarkets",
+   "kind": "bản đồ (bản đồ các thị trường quốc tế)"
+  },
+  {
+   "row": 10,
+   "start": 111.233,
+   "duration": 8.967,
+   "startFrame": 3337,
+   "durationFrames": 269,
+   "visual": "omni:cang-2-container-lanh.mp4,le-2-cat-bang.mp4",
+   "kind": "cảnh vẽ lại (lô hàng xuất khẩu và biểu tượng quy trình)"
+  },
+  {
+   "row": 11,
+   "start": 120.2,
+   "duration": 5.0,
+   "startFrame": 3606,
+   "durationFrames": 150,
+   "visual": "presenter:thanh-clip-2-1-A.mp4",
+   "kind": "NGƯỜI DẪN (Thanh · clip 2.1 · 5 giây)"
+  },
+  {
+   "row": 12,
+   "start": 125.2,
+   "duration": 5.0,
+   "startFrame": 3756,
+   "durationFrames": 150,
+   "visual": "presenter:thanh-clip-2-2-A.mp4",
+   "kind": "NGƯỜI DẪN (Thanh · clip 2.2 · 5 giây)"
+  }
+ ]
+}

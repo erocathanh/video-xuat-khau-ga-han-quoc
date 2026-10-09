@@ -1,0 +1,276 @@
+{
+ "found": {
+  "items": [
+   {
+    "claim_id": "C1",
+    "status": "co-nguon",
+    "correct_fact_vi": "Các nguồn ghi: C.P. Việt Nam đã hoàn thiện yêu cầu của HAI bộ câu hỏi chuyên sâu (của APQA và MFDS), MỖI bộ dài khoảng 1.000 trang, tức tổng khoảng 2.000 trang. Cách nói sát nguồn: 'hai bộ câu hỏi chuyên sâu, mỗi bộ khoảng 1.000 trang'.",
+    "note": "Con số 'gần 2.000 trang' là phép cộng của video (2 bộ x khoảng 1.000 trang). Không nguồn nào ghi nguyên cụm 'gần 2.000 trang'; các nguồn dùng chữ 'khoảng' cho từng bộ. Một đoạn tóm tắt của máy tìm kiếm gán cho trang Avinews tiếng Anh câu 'tổng khoảng 1.000 trang', nhưng trang đó chặn truy cập (403) nên em không kiểm được. Mọi trang đã mở (thông cáo C.P. bản Việt và bản Anh, Nhân Dân, VTV, Thanh tra, VIR) đều ghi 'mỗi bộ khoảng 1.000 trang'. Nguồn dùng 'hoàn thiện các yêu cầu của hai bộ câu hỏi', video nói 'trả lời': nghĩa tương đương.",
+    "sources": [
+     {
+      "url": "https://www.cp.com.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-sang-han-quoc",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức",
+      "date": "2026-08-26",
+      "quote": "C.P. Việt Nam đã hoàn thiện các yêu cầu của hai bộ câu hỏi chuyên sâu, mỗi bộ dài khoảng 1.000 trang."
+     },
+     {
+      "url": "https://nhandan.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-cua-viet-nam-sang-han-quoc-post984569.html",
+      "publisher": "Báo Nhân Dân",
+      "date": "2026-08-26",
+      "quote": "C.P. Việt Nam đã hoàn thiện các yêu cầu của hai cơ quan nói trên với hai bộ câu hỏi chuyên sâu, mỗi bộ dài khoảng 1.000 trang."
+     },
+     {
+      "url": "https://vtv.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-sang-han-quoc-100260827093953597.htm",
+      "publisher": "VTV.vn (Đài Truyền hình Việt Nam)",
+      "date": "2026-08-27",
+      "quote": "Doanh nghiệp đã hoàn thiện các yêu cầu của hai bộ câu hỏi chuyên sâu, mỗi bộ dài khoảng 1.000 trang."
+     },
+     {
+      "url": "https://en.vietstock.vn/2026/08/cp-vietnam-exports-vietnam8217s-first-shipment-of-processed-chicken-to-south-korea-974-642241.htm",
+      "publisher": "Vietstock (đăng lại bài của VIR - Vietnam Investment Review)",
+      "date": "2026-09-02",
+      "quote": "The company completed two sets of detailed questionnaires, each approximately 1,000 pages long, covering the entire production chain, from farming areas and disease status to pre- and post-slaughter inspections"
+     }
+    ]
+   },
+   {
+    "claim_id": "C2",
+    "status": "co-nguon",
+    "correct_fact_vi": "Đúng theo nguồn: quá trình chuẩn bị kéo dài hơn 5 năm của C.P. Việt Nam, kể từ khi Tổ hợp CPV Food Bình Phước chính thức đi vào hoạt động. Tổ hợp được khánh thành, đưa vào hoạt động tháng 12/2020, nên tới 25/8/2026 là khoảng 5 năm 8 tháng, khớp với 'hơn 5 năm'.",
+    "note": "Đây là con số do chính C.P. nêu (Nhân Dân ghi 'Theo đại diện lãnh đạo C.P. Việt Nam'). Phần sapo bài Báo Thanh tra viết 'kéo dài 5 năm', còn thân bài cùng báo viết 'hơn 5 năm'. Mốc vận hành 2020 còn được VnEconomy (23/01/2024) ghi: 'Bắt đầu đi vào vận hành và có lô gà xuất khẩu đầu tiên từ năm 2020'.",
+    "sources": [
+     {
+      "url": "https://www.cp.com.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-sang-han-quoc",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức",
+      "date": "2026-08-26",
+      "quote": "quá trình chuẩn bị kéo dài hơn 5 năm của C.P. Việt Nam, kể từ khi Tổ hợp CPV Food Bình Phước chính thức đi vào hoạt động."
+     },
+     {
+      "url": "https://nhandan.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-cua-viet-nam-sang-han-quoc-post984569.html",
+      "publisher": "Báo Nhân Dân",
+      "date": "2026-08-26",
+      "quote": "quá trình chuẩn bị hơn 5 năm của C.P. Việt Nam, kể từ khi Tổ hợp CPV Food Bình Phước chính thức đi vào hoạt động."
+     },
+     {
+      "url": "https://thanhtra.com.vn/doanh-nghiep-70CE54C31/lan-dau-tien-thit-ga-che-bien-cua-viet-nam-xuat-khau-sang-han-quoc-4c9101add.html",
+      "publisher": "Báo Thanh tra",
+      "date": "2026-09-04",
+      "quote": "quá trình chuẩn bị kéo dài hơn 5 năm của C.P. Việt Nam, kể từ khi Tổ hợp CPV Food Bình Phước chính thức đi vào hoạt động."
+     },
+     {
+      "url": "https://diendandoanhnghiep.vn/binh-phuoc-co-to-hop-nha-may-che-bien-thit-ga-250-trieu-usd-188236.html",
+      "publisher": "Diễn đàn Doanh nghiệp",
+      "date": "2020-12-23",
+      "quote": "Phó Thủ tướng thường trực đã bấm nút khánh thành, chính thức đưa vào hoạt động Tổ hợp nhà máy"
+     }
+    ]
+   },
+   {
+    "claim_id": "C3",
+    "status": "co-nguon",
+    "correct_fact_vi": "Đúng: ngày 25/8/2026, C.P. Việt Nam tổ chức Lễ công bố xuất khẩu lô thịt gà chế biến đầu tiên của Việt Nam sang Hàn Quốc, tại Tổ hợp CPV Food Bình Phước (phường Chơn Thành, Đồng Nai).",
+    "note": "Sự kiện là lễ công bố XUẤT KHẨU lô hàng. Nguồn không nêu ngày lô hàng cập cảng Hàn Quốc. Ngày 25/8/2026 là thứ Ba, khớp với Viet Nam News viết 'on Tuesday'. Một số báo chỉ ghi 'ngày 25/8', còn C.P. và VCCI ghi rõ 25/8/2026.",
+    "sources": [
+     {
+      "url": "https://www.cp.com.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-sang-han-quoc",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức",
+      "date": "2026-08-26",
+      "quote": "Ngày 25/8/2026, C.P. Việt Nam tổ chức Lễ công bố xuất khẩu lô thịt gà chế biến đầu tiên của Việt Nam sang Hàn Quốc"
+     },
+     {
+      "url": "https://vcci.com.vn/tin-tuc/cp-viet-nam-phat-trien-chuoi-san-xuat-day-manh-che-bien-va-xuat-khau",
+      "publisher": "VCCI (vcci.com.vn)",
+      "date": "2026-09-22",
+      "quote": "Ngày 25/8/2026, doanh nghiệp tiếp tục đưa lô thịt gà chế biến đầu tiên của Việt Nam sang Hàn Quốc"
+     },
+     {
+      "url": "https://vietnamnews.vn/economy/1798247/viet-nam-exports-first-shipment-of-processed-chicken-to-south-korea.html",
+      "publisher": "Viet Nam News (VNA/VNS)",
+      "date": "2026-08-25",
+      "quote": "C.P. Vietnam Corporation held a ceremony to mark the export of Việt Nam’s first shipment of processed chicken to South Korea"
+     }
+    ]
+   },
+   {
+    "claim_id": "C4",
+    "status": "khac-nguon",
+    "correct_fact_vi": "Sai năm. Việt Nam và Hàn Quốc chính thức công bố mở cửa thị trường thịt gà chế biến ngày 22/4/2026, KHÔNG phải năm 2025. Hai Bộ trưởng nông nghiệp ký Bản ghi nhớ hợp tác thú y và kiểm dịch động vật tại Hà Nội, trong chuyến thăm cấp Nhà nước của Tổng thống Hàn Quốc Lee Jae Myung. Giai đoạn đầu mỗi nước có 2 doanh nghiệp được phép xuất khẩu. Lô đầu tiên của C.P. đi hơn 4 tháng sau mốc này.",
+    "note": "Có một nguồn lệch cần biết: The Korea Times (22/4/2026) viết 'In September 2025, Korea allowed imports of such products from Vietnam', tức phía Hàn Quốc có thể đã cho phép nhập sản phẩm gia cầm xử lý nhiệt từ Việt Nam từ tháng 9/2025. Em KHÔNG tìm thấy văn bản hay thông cáo chính thức nào của MAFRA, APQA hoặc MFDS xác nhận mốc này. Mốc 'mở cửa thị trường' mà C.P., Bộ Nông nghiệp và Môi trường và báo chí Việt Nam đều dùng là 22/4/2026. Năm 2025 là thời gian các đoàn Hàn Quốc kiểm tra thực địa (tháng 7 đến tháng 12/2025). Ngày ký: phía Việt Nam ghi lễ công bố ngày 22/4/2026; một chú thích ảnh trên báo Hàn (Herald) ghi buổi ký ngày 21/4. Cả hai đều thuộc năm 2026.",
+    "sources": [
+     {
+      "url": "https://www.cp.com.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-sang-han-quoc",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức",
+      "date": "2026-08-26",
+      "quote": "Ngày 22/4/2026, Việt Nam và Hàn Quốc chính thức công bố mở cửa thị trường thịt gà chế biến."
+     },
+     {
+      "url": "https://mae.gov.vn/viet-nam-han-quoc-mo-cua-thi-truong-thit-ga-che-bien-21513.htm",
+      "publisher": "Cổng TTĐT Bộ Nông nghiệp và Môi trường",
+      "date": "2026-04-23",
+      "quote": "chính thức công bố mở cửa thị trường đối với sản phẩm thịt gà chế biến giữa hai nước."
+     },
+     {
+      "url": "https://vtv.vn/han-quoc-mo-cua-cho-thit-ga-che-bien-mo-rong-co-hoi-xuat-khau-cua-viet-nam-10026050416003942.htm",
+      "publisher": "VTV.vn (Đài Truyền hình Việt Nam)",
+      "date": "2026-05-04",
+      "quote": "Lễ công bố mở cửa thị trường thịt gà chế biến giữa Việt Nam và Hàn Quốc ngày 22/4/2026."
+     },
+     {
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-sends-first-processed-chicken-shipment-to-south-korea-5114143.html",
+      "publisher": "VnExpress International (theo VNA)",
+      "date": "2026-08-29",
+      "quote": "Vietnam and South Korea earlier announced the opening of the Korean market to processed chicken from Vietnam on April 22 this year."
+     },
+     {
+      "url": "https://www.koreatimes.co.kr/amp/foreignaffairs/20260422/leaders-agree-on-koreas-export-of-heat-treated-poultry-meat-to-vietnam",
+      "publisher": "The Korea Times",
+      "date": "2026-04-22",
+      "quote": "In September 2025, Korea allowed imports of such products from Vietnam."
+     }
+    ]
+   },
+   {
+    "claim_id": "C5",
+    "status": "khac-nguon",
+    "correct_fact_vi": "Phần ĐÚNG theo nguồn: quy trình đánh giá gồm 8 bước do APQA (Cơ quan Kiểm dịch động, thực vật Hàn Quốc) và MFDS (Bộ An toàn thực phẩm và dược phẩm Hàn Quốc) thực hiện. Từ tháng 7 đến tháng 12/2025, các đoàn liên ngành Hàn Quốc trực tiếp kiểm tra toàn bộ mô hình Feed - Farm - Food: nhà máy thức ăn chăn nuôi, hệ thống trang trại và nhà máy chế biến. Phần KHÁC nguồn: nguồn KHÔNG nêu tên 8 bước. Danh mục 'vùng chăn nuôi, tình hình dịch bệnh, kiểm tra trước và sau giết mổ, chế biến, xử lý nhiệt, đóng gói, vận chuyển' là phạm vi yêu cầu của HAI BỘ CÂU HỎI (mỗi bộ khoảng 1.000 trang), không phải tên 8 bước đánh giá.",
+    "note": "Gợi ý sửa câu: 'trải qua quy trình đánh giá 8 bước của APQA và MFDS; hai bộ câu hỏi bao quát từ vùng chăn nuôi, dịch bệnh, giết mổ đến chế biến, xử lý nhiệt, đóng gói, vận chuyển; đoàn liên ngành Hàn Quốc kiểm tra thực địa từ tháng 7 đến tháng 12/2025'. Tham khảo bối cảnh, KHÔNG phải nguồn về ca C.P.: cổng chính sách Chính phủ Hàn Quốc (korea.kr) mô tả '8단계 수입위험분석' trong ca thịt bò Mỹ năm 2007 là các bước THỦ TỤC: xem xét khả năng cho nhập, gửi bảng câu hỏi thú y, xem xét bản trả lời, kiểm tra thực địa, quyết định điều kiện vệ sinh nhập khẩu, tham vấn kỹ thuật, dự thảo và công bố, thống nhất mẫu giấy chứng nhận và phê duyệt cơ sở xuất khẩu. Em không tìm thấy trang chính thức nào của APQA hoặc MFDS liệt kê 8 bước cho ca thịt gà Việt Nam. Toàn bộ chi tiết của ca này đều đến từ thông cáo C.P. và các báo trích lại.",
+    "sources": [
+     {
+      "url": "https://www.cp.com.vn/media/cp-vietnam-exports-vietnams-first-shipment-of-processed-chicken-to-south-korea",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức bản tiếng Anh",
+      "date": "2026-08-26",
+      "quote": "the company underwent an eight-step assessment process conducted by two South Korean authorities: the Animal and Plant Quarantine Agency (APQA) and the Ministry of Food and Drug Safety (MFDS)."
+     },
+     {
+      "url": "https://www.cp.com.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-sang-han-quoc",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức",
+      "date": "2026-08-26",
+      "quote": "Từ tháng 07 đến tháng 12/2025, các đoàn liên ngành của Hàn Quốc đã trực tiếp kiểm tra toàn bộ mô hình tích hợp Feed - Farm - Food"
+     },
+     {
+      "url": "https://en.vietstock.vn/2026/08/cp-vietnam-exports-vietnam8217s-first-shipment-of-processed-chicken-to-south-korea-974-642241.htm",
+      "publisher": "Vietstock (đăng lại bài của VIR - Vietnam Investment Review)",
+      "date": "2026-09-02",
+      "quote": "The company completed two sets of detailed questionnaires, each approximately 1,000 pages long, covering the entire production chain, from farming areas and disease status to pre- and post-slaughter inspections"
+     },
+     {
+      "url": "https://www.korea.kr/newsWeb/resources/html/cowreport/sub/etc_13.html",
+      "publisher": "Korea.kr, cổng chính sách Chính phủ Hàn Quốc (tham khảo bối cảnh, ca thịt bò Mỹ, không phải ca C.P.)",
+      "date": "không ghi ngày (nội dung sự kiện 2007-2008)",
+      "quote": "독자적인 8단계 수입위험분석 절차 진행 ① 1단계 : 수입허용가능성 검토 → ② 2단계 : 가축위생설문서 송부(‘07.5.31) → ③ 3단계 : 설문에 대한 답변서 검토(’07.6.13) → ④ 4단계 : 가축위생실태 현지조사(‘07.6.30～7.1)"
+     }
+    ]
+   },
+   {
+    "claim_id": "C6",
+    "status": "co-nguon",
+    "correct_fact_vi": "Đúng: nhiệt độ TÂM sản phẩm phải trên 80°C trong ít nhất 1 phút. Khu vực trước và sau xử lý nhiệt phải được tách biệt (bản tiếng Anh của C.P. ghi 'physically separated'); nhân sự, lối vào, phòng thay đồ và khu phụ trợ cũng bố trí riêng. C.P. phải đạt 100% tiêu chí phía Hàn Quốc đặt ra trong mọi khâu sản xuất.",
+    "note": "Nguồn không dùng chữ 'hoàn toàn', chỉ ghi 'phải được tách biệt' hoặc 'physically separated'. Nên nói rõ đây là nhiệt độ tâm sản phẩm. Các con số này lấy từ thông cáo C.P. và báo chí trích lại. Em không tìm thấy văn bản điều kiện vệ sinh nhập khẩu của Hàn Quốc (APQA/MFDS) cho ca này để đối chiếu mốc 80°C trong 1 phút.",
+    "sources": [
+     {
+      "url": "https://www.cp.com.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-sang-han-quoc",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức",
+      "date": "2026-08-26",
+      "quote": "Quy trình chế biến phải đáp ứng yêu cầu xử lý nhiệt với nhiệt độ tâm sản phẩm trên 80°C trong thời gian ít nhất một phút."
+     },
+     {
+      "url": "https://thanhtra.com.vn/doanh-nghiep-70CE54C31/lan-dau-tien-thit-ga-che-bien-cua-viet-nam-xuat-khau-sang-han-quoc-4c9101add.html",
+      "publisher": "Báo Thanh tra",
+      "date": "2026-09-04",
+      "quote": "Khu vực trước và sau xử lý nhiệt phải được tách biệt; nhân sự, lối vào, phòng thay đồ và các khu vực phụ trợ cũng được bố trí riêng"
+     },
+     {
+      "url": "https://nhandan.vn/xuat-khau-lo-thit-ga-che-bien-dau-tien-cua-viet-nam-sang-han-quoc-post984569.html",
+      "publisher": "Báo Nhân Dân",
+      "date": "2026-08-26",
+      "quote": "C.P. Việt Nam đã chứng minh sự đồng bộ tuyệt đối và đạt 100% tiêu chí khắt khe mà phía Hàn Quốc đề ra trong mọi khâu sản xuất."
+     },
+     {
+      "url": "https://www.cp.com.vn/media/cp-vietnam-exports-vietnams-first-shipment-of-processed-chicken-to-south-korea",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức bản tiếng Anh",
+      "date": "2026-08-26",
+      "quote": "Areas before and after heat treatment must be physically separated"
+     }
+    ]
+   },
+   {
+    "claim_id": "C7",
+    "status": "co-nguon",
+    "correct_fact_vi": "Đúng: tính cả lô hàng sang Hàn Quốc, thịt gà chế biến của C.P. Việt Nam hiện có mặt tại 8 thị trường quốc tế (con số 8 ĐÃ GỒM Hàn Quốc), trong đó có Nhật Bản, Singapore, Hồng Kông và Nga.",
+    "note": "Video không nên nói '8 thị trường' như thể đã có trước khi vào Hàn Quốc, vì Hàn Quốc chính là thị trường thứ 8. Đối chiếu tên thị trường: VietnamPlus (16/12/2025) ghi trước Singapore, C.P. đã xuất sang Nhật Bản, Hồng Kông, Campuchia, Lào; Diễn đàn Doanh nghiệp (24/4/2026) ghi Nhật Bản, Hồng Kông, Singapore, Nga, Mông Cổ. Ghép tên từ các nguồn này được 7 thị trường trước Hàn Quốc, khớp với con số 8 khi tính cả Hàn Quốc. Con số 8 là của RIÊNG C.P.: theo số liệu Bộ Nông nghiệp và Môi trường do Trung tâm WTO (VCCI) đăng ngày 24/4/2026, cả nước đã xuất thịt gà chế biến sang 9 thị trường tính đến cuối năm 2025. Bài VTV (27/8/2026) viết 'thịt gà chế biến từ Việt Nam ... 8 thị trường' là cách nói thiếu chính xác.",
+    "sources": [
+     {
+      "url": "https://www.cp.com.vn/media/cp-vietnam-exports-vietnams-first-shipment-of-processed-chicken-to-south-korea",
+      "publisher": "C.P. Việt Nam (cp.com.vn), thông cáo chính thức bản tiếng Anh",
+      "date": "2026-08-26",
+      "quote": "C.P. Vietnam’s processed chicken products are now available in eight international markets, including markets with stringent standards such as Japan, Singapore, Hong Kong, and Russia."
+     },
+     {
+      "url": "https://cafef.vn/cp-viet-nam-dua-thit-ga-che-bien-sang-han-quoc-mo-rong-thi-truong-xuat-khau-188260908113748305.chn",
+      "publisher": "CafeF",
+      "date": "2026-09-09",
+      "quote": "Với Hàn Quốc, thịt gà chế biến của C.P. Việt Nam hiện diện tại 8 thị trường quốc tế."
+     },
+     {
+      "url": "https://vietnamnews.vn/economy/1798247/viet-nam-exports-first-shipment-of-processed-chicken-to-south-korea.html",
+      "publisher": "Viet Nam News (VNA/VNS)",
+      "date": "2026-08-25",
+      "quote": "With the milestone shipment to South Korea, C.P. Vietnam’s processed chicken is now exported to eight international markets, including demanding ones such as Japan, Singapore, Hong Kong (China) and Russia."
+     },
+     {
+      "url": "https://en.vietnamplus.vn/cp-vietnam-exports-first-processed-chicken-batch-to-singapore-post334418.vnp",
+      "publisher": "VietnamPlus (TTXVN), bản tiếng Anh",
+      "date": "2025-12-16",
+      "quote": "Before reaching Singapore, the company’s processed chicken was already exported to Japan, Hong Kong (China), Cambodia, and Laos"
+     }
+    ]
+   }
+  ]
+ },
+ "verdict": {
+  "results": [
+   {
+    "claim_id": "C1",
+    "verified": true,
+    "reason": "Đã mở lại cả 4 link, câu trích đều có thật. Trang cp.com.vn (đăng 26/8/2026) ghi đúng câu: 'C.P. Việt Nam đã hoàn thiện các yêu cầu của hai bộ câu hỏi chuyên sâu, mỗi bộ dài khoảng 1.000 trang'. Nhân Dân (26/8/2026) có đúng câu đã trích. VTV (27/8/2026) và Vietstock EN (2/9/2026) cũng khớp. Con số 'hai bộ, mỗi bộ khoảng 1.000 trang' là đúng. Có hai chỗ đi xa hơn nguồn: (1) 'tổng khoảng 2.000 trang' là phép nhân của người tra, không nguồn nào ghi 2.000; (2) phần '(của APQA và MFDS)': chỉ Nhân Dân viết 'các yêu cầu của hai cơ quan nói trên với hai bộ câu hỏi', không nguồn nào nói mỗi cơ quan một bộ. Mọi bài đều chép từ thông cáo của C.P. (ảnh ghi nguồn C.P.), nên lời đọc nên gắn 'theo C.P. Việt Nam'.",
+    "safe_wording_vi": "Theo C.P. Việt Nam, trong quy trình đánh giá của Hàn Quốc, doanh nghiệp đã hoàn thiện các yêu cầu của hai bộ câu hỏi chuyên sâu, mỗi bộ dài khoảng 1.000 trang."
+   },
+   {
+    "claim_id": "C2",
+    "verified": true,
+    "reason": "Trang cp.com.vn ghi: 'Đằng sau khoảng thời gian hai nước công bố mở cửa thị trường là quá trình chuẩn bị kéo dài hơn 5 năm của C.P. Việt Nam, kể từ khi Tổ hợp CPV Food Bình Phước chính thức đi vào hoạt động'. Nhân Dân và Thanh Tra (4/9/2026) có đúng câu đã trích. Link Diễn đàn Doanh nghiệp chuyển sang .../binh-phuoc-co-to-hop-nha-may-che-bien-thit-ga-250-trieu-usd-10043426.html. Bài này đăng 23/12/2020, có câu 'Phó Thủ tướng thường trực đã bấm nút khánh thành, chính thức đưa vào hoạt động Tổ hợp nhà máy' (Lô B5 KCN Becamex – Bình Phước, huyện Chơn Thành), kèm việc bấm nút xuất lô đầu đi Hồng Kông. Vậy mốc tháng 12/2020 có nguồn, dù bài không ghi ngày cụ thể. Tính tay: từ 12/2020 tới 22/4/2026 (mốc C.P. dùng) là khoảng 5 năm 4 tháng, tới 25/8/2026 là khoảng 5 năm 8 tháng; cả hai đều là 'hơn 5 năm'. Lưu ý: '5 năm 8 tháng' là phép tính của người tra, không phải số của nguồn. Phần sapo của Thanh Tra ghi 'kéo dài 5 năm', thiếu chữ 'hơn'.",
+    "safe_wording_vi": "Theo C.P. Việt Nam, kết quả này đến sau hơn 5 năm chuẩn bị, kể từ khi Tổ hợp CPV Food Bình Phước chính thức đi vào hoạt động vào tháng 12/2020."
+   },
+   {
+    "claim_id": "C3",
+    "verified": true,
+    "reason": "Trang cp.com.vn ghi: 'Ngày 25/8/2026, C.P. Việt Nam tổ chức Lễ công bố xuất khẩu lô thịt gà chế biến đầu tiên của Việt Nam sang Hàn Quốc', và lễ 'diễn ra tại Tổ hợp chăn nuôi và chế biến gà xuất khẩu CPV Food Bình Phước'. VCCI có đúng câu đã trích. Vietnam News (TTXVN/VNS, 25/8/2026 17:38) có câu đã trích, kèm đoạn 'ĐỒNG NAI — ... at the CPV Food Bình Phước ... complex in Chơn Thành Ward on Tuesday'; tra lịch thì 25/8/2026 đúng là thứ Ba. Trang C.P. không nhắc Chơn Thành, nên phần 'phường Chơn Thành, Đồng Nai' dựa vào bài của VNS. Chân trang C.P. ghi 'Thành phố Đồng Nai', còn bài TTXVN tháng 12/2025 ghi 'Dong Nai province'. Vì vậy lời đọc chỉ nên nói 'Đồng Nai', không thêm 'tỉnh' hay 'thành phố'.",
+    "safe_wording_vi": "Ngày 25/8/2026, C.P. Việt Nam tổ chức Lễ công bố xuất khẩu lô thịt gà chế biến đầu tiên của Việt Nam sang Hàn Quốc tại Tổ hợp CPV Food Bình Phước, phường Chơn Thành, Đồng Nai."
+   },
+   {
+    "claim_id": "C4",
+    "verified": true,
+    "reason": "Mốc 22/4/2026 đúng, có nhiều nguồn độc lập. cp.com.vn ghi: 'Ngày 22/4/2026, Việt Nam và Hàn Quốc chính thức công bố mở cửa thị trường thịt gà chế biến'. Chú thích ảnh của VTV (4/5/2026) đúng câu đã trích. Báo Đầu tư (24/4/2026) ghi lễ 'diễn ra tại Hà Nội ngày 22 tháng 4 năm 2026'. VnExpress International có đúng câu đã trích. Trang Bộ NN&MT (đăng 08:09 ngày 23/4/2026) ghi: trong khuôn khổ Tổng thống Lee Jae Myung thăm Việt Nam, tại trụ sở Bộ, Bộ trưởng Trịnh Việt Hùng và Bộ trưởng Song Miryung ký Bản ghi nhớ hợp tác thú y và kiểm dịch động vật; ông Hùng nói 'trước mắt mỗi nước sẽ có hai doanh nghiệp được phép xuất khẩu'. Korea Times ghi 'during Lee's first state visit to Vietnam', nên phần 'cấp Nhà nước' có nguồn. Cụm 'hơn 4 tháng' có ở trang C.P. Có HAI CẢNH BÁO. (1) Chính bài Korea Times mà người tra dẫn ghi 'In September 2025, Korea allowed imports of such products from Vietnam'. Tôi không tìm ra nguồn Việt hay nguồn chính thức nào của Hàn xác nhận mốc 9/2025, nhưng cũng không bác được. Vậy câu 'KHÔNG phải năm 2025' chỉ đúng với LỄ CÔNG BỐ CHUNG; lời đọc không được nói 'năm 2025 là sai'. (2) Báo Herald Kinh tế (Hàn) có chú thích ảnh, nguồn ảnh là Bộ Nông nghiệp Hàn, ghi ông Song ký thoả thuận hợp tác với ông Hùng 'ngày 21', trong khi nguồn Việt ghi lễ công bố ngày 22/4. Vậy đừng gắn ngày cụ thể cho việc ký Bản ghi nhớ.",
+    "safe_wording_vi": "Ngày 22/4/2026, nhân chuyến thăm cấp Nhà nước của Tổng thống Hàn Quốc Lee Jae Myung, Việt Nam và Hàn Quốc chính thức công bố mở cửa thị trường thịt gà chế biến, giai đoạn đầu mỗi nước có hai doanh nghiệp được phép xuất khẩu, và hơn 4 tháng sau C.P. Việt Nam công bố xuất khẩu lô hàng đầu tiên sang Hàn Quốc."
+   },
+   {
+    "claim_id": "C5",
+    "verified": true,
+    "reason": "Bản tiếng Anh của C.P. có đúng câu 'the company underwent an eight-step assessment process conducted by two South Korean authorities: ... (APQA) and ... (MFDS)'. Bản tiếng Việt ghi 'quy trình đánh giá nghiêm ngặt gồm 8 bước của hai cơ quan chức năng Hàn Quốc', và 'Từ tháng 07 đến tháng 12/2025, các đoàn liên ngành của Hàn Quốc đã trực tiếp kiểm tra toàn bộ mô hình tích hợp Feed - Farm - Food, từ nhà máy thức ăn chăn nuôi, hệ thống trang trại đến nhà máy chế biến'. Vietstock khớp. Phần người tra sửa là đúng: soát C.P. (bản Việt và bản Anh), Nhân Dân, VTV, Thanh Tra, CafeF, Vietstock, VNS, VnExpress, không bài nào nêu tên 8 bước. Danh mục 'vùng chăn nuôi… vận chuyển' là phạm vi của hai bộ câu hỏi. Link korea.kr là niên biểu 2006–2008 về nhập khẩu thịt bò MỸ (thủ tục phân tích rủi ro 8 bước năm 2007), không liên quan tới thịt gà Việt Nam, nên không được dùng để kể tên 8 bước trong ca của C.P. Mọi chi tiết đều do C.P. tự công bố.",
+    "safe_wording_vi": "Theo C.P. Việt Nam, doanh nghiệp phải trải qua quy trình đánh giá gồm 8 bước của Cơ quan Kiểm dịch động, thực vật Hàn Quốc (APQA) và Bộ An toàn thực phẩm và dược phẩm Hàn Quốc (MFDS), trong đó từ tháng 7 đến tháng 12/2025 các đoàn liên ngành Hàn Quốc đã trực tiếp kiểm tra toàn bộ chuỗi Feed - Farm - Food, từ nhà máy thức ăn chăn nuôi, hệ thống trang trại đến nhà máy chế biến."
+   },
+   {
+    "claim_id": "C6",
+    "verified": true,
+    "reason": "Bản tiếng Việt trên cp.com.vn có đúng câu đã trích về 'nhiệt độ tâm sản phẩm trên 80°C trong thời gian ít nhất một phút'. Cùng trang ghi 'Khu vực trước và sau xử lý nhiệt phải được tách biệt; nhân sự, lối vào, phòng thay đồ và các khu vực phụ trợ cũng được bố trí riêng'. Trang cũng ghi C.P. 'phải chứng minh sự đồng bộ tuyệt đối và đạt 100% tiêu chí khắt khe mà phía Hàn Quốc đề ra trong mọi khâu sản xuất'. Bản tiếng Anh có 'physically separated' và 'achieve 100% compliance'. Thanh Tra và Vietstock khớp. Nhân Dân khớp nội dung; câu gốc mở đầu 'Công ty C.P. Việt Nam đã chứng minh…' và ghi 'hơn 80°C'. Các con số đúng như người tra ghi. Lưu ý: mọi bài đều lấy từ thông cáo của C.P. Tôi không tìm được văn bản quy chuẩn Hàn Quốc ghi '80°C trong 1 phút', và '100%' là C.P. tự đánh giá. Vì vậy lời đọc phải gắn 'theo C.P. Việt Nam'.",
+    "safe_wording_vi": "Theo C.P. Việt Nam, phía Hàn Quốc yêu cầu nhiệt độ tâm sản phẩm trên 80°C trong ít nhất một phút, khu vực trước và sau xử lý nhiệt phải tách biệt, nhân sự, lối vào, phòng thay đồ và khu phụ trợ cũng bố trí riêng, và doanh nghiệp phải đạt 100% tiêu chí Hàn Quốc đặt ra trong mọi khâu sản xuất."
+   },
+   {
+    "claim_id": "C7",
+    "verified": true,
+    "reason": "Bản tiếng Anh của C.P. có đúng câu đã trích, mở đầu bằng 'With the export of its first shipment of processed chicken to South Korea…'. CafeF (9/9/2026) có đúng câu 'Với Hàn Quốc, … hiện diện tại 8 thị trường quốc tế'. Vietnam News khớp. VietnamPlus (16/12/2025) có câu đã trích: trước Singapore, hàng đã xuất sang Nhật Bản, Hồng Kông, Campuchia, Lào. VTV (4/5/2026) nêu thêm Nga và Mông Cổ. Đếm lại: Nhật Bản, Hồng Kông, Campuchia, Lào, Singapore, Nga, Mông Cổ là 7 thị trường, cộng Hàn Quốc là 8, khớp ý 'con số 8 đã gồm Hàn Quốc'. Bản tiếng Việt của C.P. viết 'tiếp tục mở rộng hiện diện tại 8 thị trường', đọc được hai nghĩa, nhưng bản tiếng Anh và CafeF đã làm rõ. Không chép cách viết của VTV ngày 27/8 'thịt gà chế biến từ Việt Nam… 8 thị trường', vì câu đó gán con số của C.P. cho cả nước.",
+    "safe_wording_vi": "Tính cả Hàn Quốc, thịt gà chế biến của C.P. Việt Nam hiện có mặt tại 8 thị trường quốc tế, trong đó có Nhật Bản, Singapore, Hồng Kông (Trung Quốc) và Nga."
+   }
+  ]
+ }
+}

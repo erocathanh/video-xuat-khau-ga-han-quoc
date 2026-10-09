@@ -1,0 +1,28 @@
+{
+  "name": "video-xuat-khau-ga-han-quoc",
+  "version": "1.0.0",
+  "description": "Vertical short (1080x1920, 30 fps, ~130 s) about Vietnamese processed chicken exports to South Korea, built with Remotion 4",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.471",
+    "@remotion/google-fonts": "4.0.471",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.471"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts XkgaVi out/xuat-khau-ga-han-quoc.mp4",
+    "still": "remotion still src/index.ts XkgaVi out/still.png --frame=60",
+    "typecheck": "tsc --noEmit -p ."
+  }
+}
